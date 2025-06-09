@@ -12,8 +12,8 @@ logging.basicConfig(
 class Config(object):
     
     BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
-    API_ID = int(os.environ.get("API_ID", "29037902"))
-    API_HASH = os.environ.get("API_HASH", "8f963da8e2040053cf0ad8932244890e")
+    API_ID = int(os.environ.get("API_ID", "28918271"))
+    API_HASH = os.environ.get("API_HASH", "29bf447b916a795191046a91317869fb")
     
     DOWNLOAD_LOCATION = "./DOWNLOADS"
     MAX_FILE_SIZE = 2194304000
@@ -31,7 +31,7 @@ class Config(object):
 
     BANNED_USERS = set(int(x) for x in os.environ.get("BANNED_USERS", "").split())
 
-    DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://stoons:stoons@ajay.v5uug.mongodb.net/?retryWrites=true&w=majority")
+    DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://Renamest:Renamest@cluster0.prfhc.mongodb.net/?retryWrites=true&w=majority")
 
     LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002320080278"))
     LOGGER = logging
