@@ -1,1 +1,23 @@
-Add your own cookies
+# Netscape HTTP Cookie File
+# https://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file! Do not edit.
+
+.google.com	TRUE	/verify	TRUE	1765299523	SNID	ABablneZlLXyXPLcC8Wxx8bcHBBVU0EgEsSiRSn64UOWB5VdkQDJnSIBwekWPNflEbtzYIAT42pOrVlEXU1KPlGbEnEsZhM8Ylg
+www.wikipedia.org	FALSE	/	TRUE	1752286951	WMF-Last-Access	09-Jun-2025
+.wikipedia.org	TRUE	/	TRUE	1752286951	WMF-Last-Access-Global	09-Jun-2025
+.wikipedia.org	TRUE	/	TRUE	0	GeoIP	IN:GJ:Vadodara:22.30:73.20:v4
+www.wikipedia.org	FALSE	/	TRUE	1749491893	NetworkProbeLimit	0.001
+.wikipedia.org	TRUE	/	TRUE	1781014951	WMF-Uniq	EfLdqNUTo-MxUhZFNY2GwwINAAAAAFvdGEroVyJ025_FvIDJMbi0OG2P1YnLlHqa
+.google.com	TRUE	/	TRUE	1765040323	AEC	AVh_V2iji6F9p-FXU4MZKjXoKuZsmV3ulbY9LdOBXeSF2JKSZdmuJXMK0Q
+.google.com	TRUE	/	TRUE	1765299523	NID	524=SUP_inAFW5SAnWElckq0sIi12PRy30CKWLs5CsQiGk0NjeTuI5B9nB4VN91kSfZHJ0f1KMYZN7aFHkS7diB-54n4j05LuKQZaecUHQFVbVxX4cDxZjl1EizXhlRUeRlu5L4e9x9gtadpUiWUmiJUN8ueE5m48PfaA8P_5iz6YUI9No1fw8qq5fbKJ71WGRsNmbU2cBGAltC8fM6GHV72mlAAB2a0d1cBHcrAS--9E1l9r_TWwU-nPsfXCUsy
+www.google.com	FALSE	/	FALSE	1749488994	DV	E83lbXo_yQ0d0J-HU_sc0efy7CVadRk
+github.com	FALSE	/	TRUE	0	_gh_sess	IXLngySRlv%2B0B%2FcafWZgQbH9iay4hWJHraZ6FrFSWgk7uiRb%2Baz%2FpTXdq5O7sQ8kCAgLdIBS9wKYncZ4xo4T%2FTs%2BSlh8zTByliDZO%2Bo%2BXVNyYrUvuGplrJrEeZ%2F2BuqJPgbaJsok9BwLMNRkvg0VKBborEn4977%2FMQf2MasipyInOZtqnh6UW4Dyghbxnar63%2B7Qwk%2FlAfXtw%2F95NYZ%2FJbQjDs3zrnFs3oCpZqVh5pKvuKLhzS99hLAc4onqQGlyembFTkpGk%2FPF1iupUwmhfQ%3D%3D--V%2F3LRWF4bpS82s6h--g9F9Tw3uHCF5bdF%2BEti%2FXQ%3D%3D
+.github.com	TRUE	/	TRUE	1781024329	_octo	GH1.1.698385403.1749488330
+.github.com	TRUE	/	TRUE	1781024329	logged_in	no
+.github.com	TRUE	/	TRUE	0	cpu_bucket	lg
+.github.com	TRUE	/	TRUE	0	preferred_color_mode	dark
+.github.com	TRUE	/	TRUE	0	tz	Asia%2FKolkata
+.mozilla.org	TRUE	/	FALSE	1784048389	_ga_B9CY1C9VBC	GS2.1.s1749488349$o1$g1$t1749488389$j20$l0$h0
+.mozilla.org	TRUE	/	FALSE	1784048349	_ga	GA1.2.107910077.1749488349
+.mozilla.org	TRUE	/	FALSE	1749574749	_gid	GA1.2.1866848444.1749488350
+.mozilla.org	TRUE	/	FALSE	1749488409	_gat	1
