@@ -33,7 +33,7 @@ class Config(object):
 
     DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://Renamest:Renamest@cluster0.prfhc.mongodb.net/?retryWrites=true&w=majority")
 
-    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002320080278"))
+    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002804958408"))
     LOGGER = logging
     OWNER_ID = int(os.environ.get("OWNER_ID", "6692613520"))
     SESSION_NAME = "UploaderXNTBot"
