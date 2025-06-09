@@ -44,13 +44,13 @@ class Config(object):
     ADL_BOT_RQ = {}
 
     # Set False off else True
-    TRUE_OR_FALSE = os.environ.get("TRUE_OR_FALSE", "").lower() == "true"
+    TRUE_OR_FALSE = os.environ.get("TRUE_OR_FALSE", "True").lower() == "true"
 
     # Shortlink settings
-    SHORT_DOMAIN = environ.get("SHORT_DOMAIN", "")
-    SHORT_API = environ.get("SHORT_API", "")
+    SHORT_DOMAIN = environ.get("SHORT_DOMAIN", "arlinks.in")
+    SHORT_API = environ.get("SHORT_API", "b12d324481cefcfe34f8802dc8dab8a0a640d370")
 
     # Verification video link
-    VERIFICATION = os.environ.get("VERIFICATION", "")
+    VERIFICATION = os.environ.get("VERIFICATION", "https://t.me/How_to_download_ST/8")
 
     
